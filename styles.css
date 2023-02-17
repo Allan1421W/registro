@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#register{
+    width: 400px;
+    background: #ebe97c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: black;
+    text-align: center;
+}
+#submit{
+    background-color: rgb(56, 187, 56);
+    border-color: rgb(56, 187, 56);
+    border-radius: 5px;
+    left: 5%;
+}
